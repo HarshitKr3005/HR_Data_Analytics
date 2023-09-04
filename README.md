@@ -14,6 +14,6 @@ This repository contains a Power BI dashboard for the Atliq company's attendance
 - **Data Drilldown:** Click on data points to access detailed information.
 
  ## Usage
-- **This dashboard is intended for use by HR managers, supervisors, or anyone responsible for tracking employee attendance at Atliq. It provides valuable insights that can help in decision-making related to attendance management.
+- This dashboard is intended for use by HR managers, supervisors, or anyone responsible for tracking employee attendance at Atliq. It provides valuable insights that can help in decision-making related to attendance management.
 
-Feel free to customize and expand this dashboard according to your specific needs and requirements.
+- Feel free to customize and expand this dashboard according to your specific needs and requirements.
